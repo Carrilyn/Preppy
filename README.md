@@ -1,38 +1,28 @@
-# 🥗 Preppy - Smart Meal Prep & Budget Architect
+# 🥗 Preppy
 
-**Preppy** es una solución inteligente diseñada para democratizar la alimentación saludable. Utiliza inteligencia artificial para planificar menús semanales completos basados en presupuestos extremadamente ajustados (5€, 10€ o 15€), optimizando cada céntimo y reduciendo el desperdicio de alimentos.
-
-> **Nota:** Este es mi primer proyecto de desarrollo, creado con una mentalidad "AI-First", utilizando herramientas de inteligencia artificial para la lógica de programación y nutrición.
+**El futuro del Meal Planning inteligente.** Preppy nace con una misión clara: optimizar la alimentación y el bolsillo mediante el uso estratégico de Inteligencia Artificial. Este es mi primer proyecto desarrollado íntegramente con asistencia de IA, diseñado para transformar presupuestos limitados en menús de alto valor nutricional.
 
 ---
 
-## 🚀 La Visión
-Llegar a **1M de usuarios** ayudándoles a "ganarle al sistema" del supermercado. Comer bien no debería ser un lujo, y Preppy es la herramienta para demostrarlo.
+## ✨ Funciones Principales
 
-## ✨ Características Principales (MVP)
-- 💰 **Planificación por Presupuesto:** Generación de menús cerrados de 5€, 10€ o 15€ semanales.
-- 🩺 **Filtros de Salud Especializados:** Soporte para dietas SIBO (bajo en FODMAP), Keto, Vegana y Sin Gluten.
-- 🔄 **Lógica Batch Cooking:** Optimización de ingredientes para cocinar menos veces y ahorrar más.
-- 🛒 **Lista de la Compra Inteligente:** Cantidades exactas para evitar el desperdicio.
-- 📊 **Control de Macros:** Visualización clara de Kcal, proteínas, grasas y carbohidratos.
-
-## 🛠️ Stack Tecnológico
-- **Core:** React / Next.js (Desarrollado con asistencia de IA).
-- **Estilos:** Tailwind CSS (Estética Dark Mode / Neón).
-- **IA Engine:** GPT-4o / Gemini Pro para la creación dinámica de recetas.
-- **Despliegue:** Vercel / Netlify.
-
-## 🛡️ Licencia y Propiedad
-Este proyecto está bajo una **licencia de Propiedad Privada**. 
-Todos los derechos sobre la marca **Preppy**, el diseño de la interfaz y la lógica de optimización presupuestaria están reservados. Se prohíbe la distribución, copia o uso comercial de este código sin autorización expresa del autor.
+* 💰 **Optimización Presupuestaria:** Planificación basada en retos reales (5€/10€/15€ por semana).
+* 🤖 **Smart Batch Cooking:** Lógica de IA para maximizar el uso de ingredientes y reducir el desperdicio al 0%.
+* 🩺 **Nutrición Adaptativa:** Menús configurables para dietas SIBO, Keto, Vegana y gestión de intolerancias.
+* 🛒 **Lista de Compra Eficiente:** Generación de listas basadas en formatos reales de venta en supermercados.
+* 📊 **Control de Macros:** Seguimiento simplificado de Kcal y nutrientes por ración.
 
 ---
 
-## 📈 Hoja de Ruta (Roadmap)
-- [ ] Lanzamiento del MVP con filtros básicos.
-- [ ] Integración de comparativa de precios real por supermercados.
-- [ ] Modo Social: Compartir "Retos de 10€" en TikTok e Instagram.
-- [ ] Escaneo de tickets de compra mediante visión artificial.
+## 🚀 Mi Primera App con IA
+Este proyecto representa mi inicio en el desarrollo de software "AI-First". He utilizado prompts avanzados y modelos de lenguaje para:
+- Definir la arquitectura del MVP.
+- Desarrollar la lógica de distribución de alimentos.
+- Diseñar una interfaz moderna y dinámica (Vibe-Code).
+
+Preppy es la prueba de que con una visión clara e IA, se pueden construir herramientas poderosas desde cero.
 
 ---
-*Creado con pasión por un entusiasta de la tecnología y la vida saludable.*
+
+## 🛡️ Propiedad
+Todos los derechos reservados. El diseño, la marca y la lógica de optimización son propiedad exclusiva del autor.
